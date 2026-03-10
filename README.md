@@ -171,7 +171,7 @@ public:
   <img src="https://img.shields.io/badge/GitHub-DevBot667-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://discord.gg/">
+<a href="https://discord.gg/qyvUBPcYDR">
   <img src="https://img.shields.io/badge/Discord-Modding%20Family-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
