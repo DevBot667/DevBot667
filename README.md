@@ -5,13 +5,15 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%F0%9F%94%93+Reverse+Engineering+%7C+Memory+Hacking+%7C+Binary+Analysis;%F0%9F%8E%AE+Game+Modding+%7C+Overlay+Systems+%7C+Anti-Cheat+Research;%F0%9F%94%A7+Kernel+%2B+User-Mode+Driver+Dev+%7C+DMA+%2F+PCILeech;%F0%9F%94%90+Post-Quantum+Crypto+%7C+E2E+%7C+Android+Security;%F0%9F%9B%A1%EF%B8%8F+Security+Research+%7C+Low-Level+%7C+Open+Source" alt="Typing SVG" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=%F0%9F%94%93+Reverse+Engineering+%7C+Memory+Hacking+%7C+Binary+Analysis;%F0%9F%8E%AE+Game+Modding+%7C+Overlay+Systems+%7C+Anti-Cheat+Research;%F0%9F%94%A7+Kernel+%2B+User-Mode+Driver+Dev+%7C+DMA+%2F+PCILeech;%F0%9F%94%90+Post-Quantum+Crypto+%7C+E2E+%7C+Android+Security;%F0%9F%9B%A1%EF%B8%8F+Security+Research+%7C+Low-Level+%7C+Open+Source" alt="Typing SVG" width="100%" />
 </a>
 
 <br/><br/>
 
+<div align="center">
+
 <!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=DevBot667&style=for-the-badge&color=6e3cbc&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DevBot667.DevBot667&style=for-the-badge&color=6e3cbc" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/DevBot667?tab=followers">
   <img src="https://img.shields.io/github/followers/DevBot667?style=for-the-badge&color=6e3cbc&labelColor=0d1117&logo=github" alt="Followers"/>
@@ -204,11 +206,11 @@ public:
 
 <br/>
 
-## 🔥 Activity Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevBot667&theme=tokyo-night&bg_color=0d1117&color=c084fc&line=6e3cbc&point=e2d5f7&area=true&area_color=6e3cbc&hide_border=false&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/DevBot667/DevBot667/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
