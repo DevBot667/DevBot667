@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-<div align="center">
-
 <!-- BADGES -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DevBot667.DevBot667&style=for-the-badge&color=6e3cbc" alt="Profile Views"/>
 &nbsp;
