@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%F0%9F%94%93+Reverse+Engineering+%7C+Memory+Hacking+%7C+Binary+Analysis;%F0%9F%8E%AE+Game+Modding+%7C+Overlay+Systems+%7C+Anti-Cheat+Research;%F0%9F%94%A7+Kernel+%2B+User-Mode+Driver+Dev+%7C+DMA+%2F+PCILeech;%F0%9F%94%90+Post-Quantum+Crypto+%7C+E2E+%7C+Android+Security;%F0%9F%9B%A1%EF%B8%8F+Security+Research+%7C+Low-Level+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%F0%9F%94%93+Reverse+Engineering+%7C+Memory+Hacking+%7C+Binary+Analysis;%F0%9F%8E%AE+Game+Modding+%7C+Overlay+Systems+%7C+Anti-Cheat+Research;%F0%9F%94%A7+Kernel+%2B+User-Mode+Driver+Dev+%7C+DMA+%2F+PCILeech;%F0%9F%94%90+Post-Quantum+Crypto+%7C+E2E+%7C+Android+Security;%F0%9F%9B%A1%EF%B8%8F+Security+Research+%7C+Low-Level+%7C+Open+Source" alt="Typing SVG" width="100%" />
 </a>
 
 <br/><br/>
