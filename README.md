@@ -207,9 +207,7 @@ public:
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/DevBot667/DevBot667/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-
 </div>
 
 <br/>
